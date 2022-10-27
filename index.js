@@ -14,7 +14,11 @@ app.get("/allproduct", (req, res) => {
   res.send(productCollection);
 });
 
-
+app.get("/allproduct/:id", (req, res) => {
+  const id = req.params.id;
+  const getId = productCollection?.find((p) => p.id == id);
+  res.send(getId);
+});
 
 
 app.listen(Port, () => {
