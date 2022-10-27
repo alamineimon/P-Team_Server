@@ -10,6 +10,10 @@ const productCollection = require("./fakeData/Courses.json");
 app.get("/", (req, res) => {
   res.send(productCollection);
 });
+app.get("/allproduct", (req, res) => {
+  res.send(productCollection);
+});
+
 
 
 
