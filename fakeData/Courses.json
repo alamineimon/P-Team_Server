@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "HTML",
+    "seller": "P-TEAM",
+    "price": "$5",
+    "duraion": "20h",
+    "date": "20/10/2019",
+    "ratings": 4,
+    "describe": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+  },
+   {
+    "id": "2",
+    "name": "CSS",
+    "seller": "P-TEAM",
+    "price": "$10",
+    "duraion": "30h",
+     "date": "20/12/2019",
+    "ratings": 5,
+    "describe": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+  },
+   {
+    "id": "3",
+    "name": "JavaScript",
+    "seller": "P-TEAM",
+    "price": "$25",
+    "duraion": "36h",
+     "date": "20/10/2020",
+    "ratings": 5,
+    "describe": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
+  },
+   {
+    "id": "4",
+    "name": "Express.js",
+    "seller": "P-TEAM",
+    "price": "$10",
+    "duraion": "28h",
+    "date": "20/02/2020",
+    "ratings": 5,
+    "describe": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js",
+    "img": "https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png"
+  },
+     {
+    "id": "5",
+    "name": "Firebase",
+    "seller": "P-TEAM",
+    "price": "$15",
+    "date": "20/05/2020",
+    "duraion": "32h",
+    "ratings": 4,
+    "describe": "Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server.",
+    "img": "https://www.gstatic.com/devrel-devsite/prod/v329b39deca73fc0f4b4862903640085cfb4d3102e48d211dd97ad63f3860a376/firebase/images/touchicon-180.png"
+  },
+   {
+    "id": "6",
+    "name": "MongoDB",
+    "seller": "P-TEAM",
+    "date": "20/08/2020",
+    "price": "$20",
+    "duraion": "40h",
+    "ratings": 5,
+    "describe": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc.",
+    "img": "https://g.foolcdn.com/art/companylogos/square/mdb.png"
+  }
+]
